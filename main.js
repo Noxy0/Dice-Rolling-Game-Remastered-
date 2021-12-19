@@ -1,4 +1,5 @@
 function rollDices() {
+    //A script for rolling the dices, and checking if dices rolled a 7 or 11. If then the player win, else the player lose.
     var dice1 = document.getElementById('dice1');
     var dice2 = document.getElementById('dice2');
 
